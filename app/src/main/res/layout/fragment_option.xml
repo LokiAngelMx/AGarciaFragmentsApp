@@ -7,11 +7,10 @@
     android:background="@color/background_fragment_3"
     tools:context=".fragments.OptionFragment">
 
-    <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment"
+        android:text="Fragment 3"
+        android:textSize="36sp"
         android:gravity="center"/>
-
 </LinearLayout>
